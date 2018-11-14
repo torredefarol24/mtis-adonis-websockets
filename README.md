@@ -4,8 +4,9 @@ To Test This,
 
 - Install Package Dependencies
 ```sh
-$ cd mtis-adonis-api
+$ cd mtis-adonis-websockets
 $ yarn install
+
 # or, with npm
 $ npm install
 ```
